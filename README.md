@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Harsh Parimal Popat and I am currently studing in IIIT Delhi.
+### My Name is **Harsh Parimal Popat** and I am currently studing in **IIIT Delhi**.
 
 - 🔭 I’m currently working on enhancing my skills.
 - 🌱 I’m currently learning web development.
