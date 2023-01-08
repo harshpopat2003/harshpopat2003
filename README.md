@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on any interesting CS projects.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <!--
 **harshpopat2003/harshpopat2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
