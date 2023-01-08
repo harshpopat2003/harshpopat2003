@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My Name is Harsh Parimal Popat and I am currently studing in IIIT Delhi.
+
+- 🔭 I’m currently working on enhancing my skills.
+- 🌱 I’m currently learning web development.
+- 👯 I’m looking to collaborate on any interesting CS projects.
+
 <!--
 **harshpopat2003/harshpopat2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
